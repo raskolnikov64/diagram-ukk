@@ -1,0 +1,46 @@
+Project Hotel {
+    database_type : 'PostgreSQL'
+    note : 'DFD level 0 untuk UKK aplikasi Hotel '
+}
+
+Table users {
+    id int [primary key, increment, ref: > transaksi.user_id]
+    firstName string
+    lastName string
+    email char
+    phoneNumber varchar
+    password varchar
+}
+
+Table resepsionis {
+    id int [primary key, increment]
+    firstName string
+    lastName string
+    email char
+    phoneNumber varchar
+    password varchar
+}
+
+Table kamar {
+    id int [primary key, increment, ref: > transaksi.kamar_id]
+    namaKamar string
+    jenisKamar string
+    harga double
+}
+
+Table admin {
+    id int [primary key, increment]
+    namaAdmin string
+    email varchar
+    password varchar
+}
+
+Table transaksi {
+    id int [primary key]
+    user_id int
+    kamar_id int  
+    buktiPembayaran varchar
+    createdAt timestamp [default: `now()`]
+
+}
+
