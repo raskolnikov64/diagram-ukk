@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T13:29:26.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="wTk-De0DCe8Dn0e8OIsp" version="20.8.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-24T14:27:44.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="LJ23eLRpXTJ2FR1fqfco" version="20.8.10" type="github" pages="2">
   <diagram name="Level 0" id="btUfQ_QGiu1-Im5n79yp">
-    <mxGraphModel dx="1562" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1516" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XCLgQPEJT5d6Pu6vebn-" name="Level 1">
-    <mxGraphModel dx="1962" dy="1379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,12 +298,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9afdT6d0WucewCummu24-7" value="Message Berhasil Membuat Akun" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGJ8zlkh5-cbpUU6tlx5-1">
+        <mxCell id="9afdT6d0WucewCummu24-7" value="Message Berhasil Membuat Akun" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aGJ8zlkh5-cbpUU6tlx5-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="196" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-33" y="120" />
               <mxPoint x="210" y="120" />
-              <mxPoint x="210" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
