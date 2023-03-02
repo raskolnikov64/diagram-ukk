@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T02:27:21.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="IQoftkGR426c7Tg89XK6" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-02T14:00:01.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="1SQ83GRU9ngUv5Dsr8da" version="20.8.23" type="github" pages="2">
   <diagram name="Level 0" id="btUfQ_QGiu1-Im5n79yp">
-    <mxGraphModel dx="1979" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1755" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
         <mxCell id="3sC58NsRGG6uPqCibR4L-2" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3sC58NsRGG6uPqCibR4L-9" value="CRUD Kamar hotel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-8" target="3sC58NsRGG6uPqCibR4L-1" edge="1">
+        <mxCell id="3sC58NsRGG6uPqCibR4L-9" value="Kelola Kamar hotel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-8" target="3sC58NsRGG6uPqCibR4L-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3sC58NsRGG6uPqCibR4L-10" value="Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.662;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-8" target="3sC58NsRGG6uPqCibR4L-1" edge="1">
@@ -57,7 +57,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sC58NsRGG6uPqCibR4L-13" value="CRUD Reservasi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-11" target="3sC58NsRGG6uPqCibR4L-1" edge="1">
+        <mxCell id="3sC58NsRGG6uPqCibR4L-13" value="Kelola Reservasi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-11" target="3sC58NsRGG6uPqCibR4L-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="442" />
