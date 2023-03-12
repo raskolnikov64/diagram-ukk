@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T14:00:01.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="1SQ83GRU9ngUv5Dsr8da" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T13:04:02.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="5Ro8e5Xx5CVrPU4XXhfv" version="21.0.6" type="github" pages="3">
   <diagram name="Level 0" id="btUfQ_QGiu1-Im5n79yp">
     <mxGraphModel dx="1755" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,13 +10,6 @@
         <mxCell id="3sC58NsRGG6uPqCibR4L-15" value="Info status check in user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.093;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-1" target="3sC58NsRGG6uPqCibR4L-11" edge="1">
           <mxGeometry x="-0.2323" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bHh5Hcr4s8dHLl4CntaQ-1" value="Receipt" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.819;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3sC58NsRGG6uPqCibR4L-1" target="3sC58NsRGG6uPqCibR4L-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="278" y="410" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3sC58NsRGG6uPqCibR4L-1" value="1&lt;br&gt;Aplikasi Hotel" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -71,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XCLgQPEJT5d6Pu6vebn-" name="Level 1">
-    <mxGraphModel dx="1176" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2155" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,6 +345,135 @@
         </mxCell>
         <mxCell id="MJ8qK5b6770C1rXP9Q_3-1" value="Proses Mengakses Reservasi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="810" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yc6axMBVFZE_f99PpU-7" name="Level 1 Attempt 2">
+    <mxGraphModel dx="2605" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="noqtHbna7rO6_LnL3s07-1" value="1. Data Pemesanan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAXEdt62NIesgEh6b2Zn-1" target="Q9wx8-CW2zNyLRmMCtdY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXEdt62NIesgEh6b2Zn-1" value="User" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kBeC5eudyb0gCIXE402Z-2" value="2.1 Data Kamar Baru" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hAXEdt62NIesgEh6b2Zn-2" target="kBeC5eudyb0gCIXE402Z-1">
+          <mxGeometry x="-0.3035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAXEdt62NIesgEh6b2Zn-2" value="Admin" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="26.5" y="1080" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AngtR3w4OM2jwWcAv55H-3" value="3. Status Reservasi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;horizontal=0;" edge="1" parent="1" source="hAXEdt62NIesgEh6b2Zn-3" target="AngtR3w4OM2jwWcAv55H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXEdt62NIesgEh6b2Zn-3" value="Resepsionis" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="890" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TmSZYgvbsEXwU2dIrKMA-2" value="Username &amp;amp; Password&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;horizontal=0;" edge="1" parent="1" source="hAXEdt62NIesgEh6b2Zn-5" target="TmSZYgvbsEXwU2dIrKMA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAXEdt62NIesgEh6b2Zn-5" value="Login/Register" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="690" y="490" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="F0s3T7YGrU7Dh_pmupxL-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAXEdt62NIesgEh6b2Zn-1" target="hAXEdt62NIesgEh6b2Zn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="760" as="sourcePoint" />
+            <mxPoint x="570" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0s3T7YGrU7Dh_pmupxL-3" value="&amp;nbsp;Username &amp;amp; Password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0s3T7YGrU7Dh_pmupxL-1">
+          <mxGeometry x="0.1886" relative="1" as="geometry">
+            <mxPoint x="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmSZYgvbsEXwU2dIrKMA-1" value="User" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="790" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-3" value="1. 1 Data Pemesanan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;horizontal=0;" edge="1" parent="1" source="Q9wx8-CW2zNyLRmMCtdY-2" target="gtF9c_OaG_rHIYHqmO1d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-6" value="1.4 Data Pemesanan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9wx8-CW2zNyLRmMCtdY-2" target="kOk1rRu_tLzq9hP13E6t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-7" value="1.3 Data Kamar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9wx8-CW2zNyLRmMCtdY-2" target="hAXEdt62NIesgEh6b2Zn-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="313" y="548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-9" value="1.4 Data Pemesanan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;horizontal=0;" edge="1" parent="1" source="Q9wx8-CW2zNyLRmMCtdY-2" target="kOk1rRu_tLzq9hP13E6t-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="570" />
+              <mxPoint x="90" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q9wx8-CW2zNyLRmMCtdY-2" value="Reservasi" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="150" y="497.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-4" value="1.2 Data Kamar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.828;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=0;" edge="1" parent="1" source="gtF9c_OaG_rHIYHqmO1d-1" target="Q9wx8-CW2zNyLRmMCtdY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="212" y="740" />
+              <mxPoint x="212" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBeC5eudyb0gCIXE402Z-4" value="2.3 Data Kamar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gtF9c_OaG_rHIYHqmO1d-1" target="kBeC5eudyb0gCIXE402Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gtF9c_OaG_rHIYHqmO1d-1" value="Kamar" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="790" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-1" value="Transaksi" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AngtR3w4OM2jwWcAv55H-5" value="3.2 Data Transaksi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kOk1rRu_tLzq9hP13E6t-2" target="AngtR3w4OM2jwWcAv55H-2">
+          <mxGeometry x="-0.3629" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-296" y="820" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOk1rRu_tLzq9hP13E6t-2" value="DetailTransaksi" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="795" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kBeC5eudyb0gCIXE402Z-3" value="2.2 Data Kamar Baru" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="kBeC5eudyb0gCIXE402Z-1" target="gtF9c_OaG_rHIYHqmO1d-1">
+          <mxGeometry x="0.2479" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBeC5eudyb0gCIXE402Z-5" value="2.4 Data Kamar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kBeC5eudyb0gCIXE402Z-1" target="hAXEdt62NIesgEh6b2Zn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="77" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBeC5eudyb0gCIXE402Z-1" value="Kelola Kamar" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AngtR3w4OM2jwWcAv55H-4" value="3.1 Status Reservasi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="AngtR3w4OM2jwWcAv55H-2" target="kOk1rRu_tLzq9hP13E6t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AngtR3w4OM2jwWcAv55H-6" value="3.3 Data Transaksi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" source="AngtR3w4OM2jwWcAv55H-2" target="hAXEdt62NIesgEh6b2Zn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="648" />
+              <mxPoint x="-400" y="915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AngtR3w4OM2jwWcAv55H-2" value="Kelola Reservasi" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-377.5" y="600" width="95" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
