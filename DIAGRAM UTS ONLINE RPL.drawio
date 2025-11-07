@@ -190,6 +190,75 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-48" value="DFD LEVEL 2 PROSES 2.0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-55" value="Cek status akademik" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-49" target="ZhhtevYun7oSfI94zg-u-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-49" value="2.1 Validasi Status Mhs" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1620" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-59" value="Baca jadwal &amp;amp; kuota" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-50" target="ZhhtevYun7oSfI94zg-u-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-50" value="2.2 Tampilkan Mata Kuliah" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1760" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-62" value="Tulis draf" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-51" target="ZhhtevYun7oSfI94zg-u-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-63" value="Cek kuota/kurangi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-51" target="ZhhtevYun7oSfI94zg-u-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1944" />
+              <mxPoint x="230" y="1944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-64" value="Notifikasi input" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-51" target="ZhhtevYun7oSfI94zg-u-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-51" value="2.3 Simpan Draf KRS" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1925" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-53" value="Input Pilihan MK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-52" target="ZhhtevYun7oSfI94zg-u-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-52" value="Mahasiswa" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-54" target="ZhhtevYun7oSfI94zg-u-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-57" value="Hasil Validasi ok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-54" target="ZhhtevYun7oSfI94zg-u-50">
+          <mxGeometry x="0.3333" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1795" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-54" value="D1&lt;br&gt;DATA_MHS" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1615" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-60" value="Data MK Pilihan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-58" target="ZhhtevYun7oSfI94zg-u-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-58" value="D3&lt;br&gt;DATA_MK" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1920" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-61" value="D4&lt;div&gt;DATA_KRS&lt;/div&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2060" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
