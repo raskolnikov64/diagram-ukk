@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="3-o8X43NqTpxbzIwTLki">
-    <mxGraphModel>
+    <mxGraphModel dx="1207" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZhhtevYun7oSfI94zg-u-5" value="Input Pilihan MK, Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-1" target="ZhhtevYun7oSfI94zg-u-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-1" value="Mahasiswa" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-7" value="Input persetujuan/tolak, login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-2" target="ZhhtevYun7oSfI94zg-u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-2" value="Dosen Wali" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-6" value="Info MK, Jadwal, Status KRS, &amp;amp; KRS final" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-3" target="ZhhtevYun7oSfI94zg-u-1">
+          <mxGeometry x="0.1815" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="415" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-8" value="Data perwalian mhs &amp;amp; draf KRS mhs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-3" target="ZhhtevYun7oSfI94zg-u-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-11" value="Laporan Perwalian" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-3" target="ZhhtevYun7oSfI94zg-u-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-3" value="&amp;nbsp;Sistem Perwalian Igracias" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="365" y="520" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-9" value="Input data MK, Kuota, Jadwal, Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZhhtevYun7oSfI94zg-u-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="751" as="sourcePoint" />
+            <mxPoint x="415" y="621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="681" />
+              <mxPoint x="320" y="681" />
+              <mxPoint x="320" y="621" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhhtevYun7oSfI94zg-u-4" value="Admin Akademik" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="750" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
